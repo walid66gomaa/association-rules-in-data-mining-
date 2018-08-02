@@ -1,0 +1,5 @@
+bread;pamper;milk
+bread;pamper;coffee;eggs
+milk;pamper;coffee;salmon
+bread;milk;pamper;coffee
+bread;milk;pamper;salmon
